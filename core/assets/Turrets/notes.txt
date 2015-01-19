@@ -1,0 +1,3 @@
+All images are 52x30
+except turret4 which is 54x30
+This shouldnt be a problem though

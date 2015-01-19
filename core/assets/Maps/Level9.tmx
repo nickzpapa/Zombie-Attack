@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="RPGpack_sheet" tilewidth="32" tileheight="32">
+  <image source="RPGpack_sheet.png" width="1280" height="832"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJyLY2BgiBvFo3gUj+JRPIpHMc0wAMeUrms=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJzdk1sKwjAQRWN97EWU7kWU7sNPUboXUdyLzz/djY8TLDjUGVJIROiFw4SQ5KY3HefaoQ5k0IUe9GGQ2GMIIxiLmif2mMAUZqIWMM90QtL2LJhfwkrU0unnNfXw+cvc93CAI5zgDJdID5l/bnyblUvTNTL/Inyt4J21OZl/mcBDY+0+We0SeGhz9ax+8R71rKw+j/mvfFYb2Lp3Vlafx3j4fpB98M8+D+nK3lv2PdZk9bmlZ/V4d+qjOleOtbVt0QtseUzb
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,43 @@
+{
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "font": { "file": "fonts/test.fnt" },
+        "zombiefont": { "file": "fonts/zombiefont.fnt"},
+        "szFont" : {"file": "fonts/SmallzFont.fnt"}
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": { 
+        "default": { "up": "button_up" , "down": "button_down", "font": font, "pressedOffsetY": -1 },
+        "exit": {"up": "exit", "down": "exit_down", "font": font, "pressedOffsetY": -1},
+        "options": {"up": "gear", "down": "gear_down", "font": font, "pressedOffsetY": -1},
+        "map1": { "up": "map1" , "down": "map1_pressed", "font": font, "pressedOffsetY": -1},
+        "map2": { "up": "map2" , "down": "map2_pressed", "font": font, "pressedOffsetY": -1},
+        "map3": { "up": "map3" , "down": "map3_pressed", "font": font, "pressedOffsetY": -1},
+        "map4": { "up": "map4" , "down": "map4_pressed", "font": font, "pressedOffsetY": -1},
+        "map5": { "up": "map5" , "down": "map5_pressed", "font": font, "pressedOffsetY": -1},
+        "map6": { "up": "map6" , "down": "map6_pressed", "font": font, "pressedOffsetY": -1},
+        "map7": { "up": "map7" , "down": "map7_pressed", "font": font, "pressedOffsetY": -1},
+        "map8": { "up": "map8" , "down": "map8_pressed", "font": font, "pressedOffsetY": -1},
+        "map9": { "up": "map9" , "down": "map9_pressed", "font": font, "pressedOffsetY": -1}
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    	"exit": { "up": "exit", "down": "exit_down"},
+    	"options": { "up": "gear", "down": "gear_down"}
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "default": { "font": font},
+        "title" : { "font" : zombiefont}
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle": {
+    	"default-horizontal": { "background": "slider", "knob": "knob"}
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle": {
+    	"default": { "checkboxOff": "check_up" ,"checkboxOn": "check_down", "font": font },
+    	"turret1": { "checkboxOff": "turret1" ,"checkboxOn": "turret_shaded", "font": font },
+    	"turret2": { "checkboxOff": "turret2" ,"checkboxOn": "turret_shaded", "font": font },
+    	"turret3": { "checkboxOff": "turret3" ,"checkboxOn": "turret_shaded", "font": font },
+    	"turret4": { "checkboxOff": "turret4" ,"checkboxOn": "turret_shaded", "font": font }
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle": {
+    	"default" : {"titleFont" : "font"},
+		"leave" : {"titleFont": "font", "background" : "background"}
+    }
+}

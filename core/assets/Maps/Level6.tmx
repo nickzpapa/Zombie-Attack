@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="25" height="19" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Water" tilewidth="32" tileheight="32">
+  <image source="PathAndObjects.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJxbwsDAsGQUj+JRPIpH8SgexTTDAORRMFw=
+  </data>
+ </layer>
+ <layer name="Tile Layer 2" width="25" height="19">
+  <data encoding="base64" compression="zlib">
+   eJzt01kOAUEQBuC5GE6AE+AEuMhcAg+ecQLEAXACjCWIfXv0T1KdVDq9VPM6f/KlO5OuWWq6oyiLNCc4w8Uxl9bzOmm9ShFKhrEsrJ94pKlA1TDWAu7hen6aOjQMY1Nb54qtB77341rQ1nQgtvRC9cCUBSxhBQl0SQ/6mgGry0GejQW6voYNbGFH73SFG9zhQddiwTNsvXrCC97wsXyX+o4hjDRjtu7X/cJNYcbMifof/+wXybqQ88F7GbL/JPGdQV/2cICjY+46g5L6LPJ8AaQtkUQ=
+  </data>
+ </layer>
+</map>
